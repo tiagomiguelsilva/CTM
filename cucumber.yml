@@ -1,0 +1,1 @@
+default: "--no-source --color --format pretty -e cucumber/features/step_definitions/ -e cucumber/features/step_definitions/"
