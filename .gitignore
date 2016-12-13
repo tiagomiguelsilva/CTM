@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+.ruby-version
+features/support/useful_tools/data_for_tests/pages
